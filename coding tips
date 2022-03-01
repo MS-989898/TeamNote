@@ -1,13 +1,12 @@
 '''
-  무조건 붙는다!
-  코딩 팁들을 모아놓는 장소
-  코딩 테스트 전에 꼭 보고 가자
+  I can do it!
+  Here is for coding tips
+  Must be known and memorized
 '''
 
-0. 코드 작성, 알고리즘 고민 전에 무조건 '이게 맞나?' 생각
-1. 알고리즘을 다 짰다면, 그 다음은 실수 싸움이다. 무조건 머리로 함수 생각해보고 작성할 것.
-2. (파이썬 기준) 1초: 2000만 연산 이하, 4MB: 리스트 100만
-3. itertools 사용 가능한지 확인해보기. bisect도
+0. Before write code or make algorithm, must think "Is it right?"
+1. After implementation, it's time for mistake check.
+2. (Python) 1s: under 20M, 4MB: 1M sized list
 4. DP: 점화식 찾는게 핵심. 가장 작은 단위의 답을 어떻게 구할 것인가에 집중하기
 5. 방문처리, 데이터 추출, 삽입을 제대로 했는지 코드 적을 때 확인 하자
 6. 오류 찾을땐 무작정 X 체크리스트를 생각하고 찾자****(체크 리스트는 팁 정리하면서 생각하기)
