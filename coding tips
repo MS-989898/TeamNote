@@ -7,7 +7,8 @@
 0. Before write code or make algorithm, must think "Is it right?"
 1. After implementation, it's time for mistake check.
 2. (Python) 1s: under 20M, 4MB: 1M sized list
-4. DP: 점화식 찾는게 핵심. 가장 작은 단위의 답을 어떻게 구할 것인가에 집중하기
+3. DP: finding recurrence relation is point. How find small unit's result
+4. Prove method: Assume you missed correct result, and verify that is never happend.
 5. 방문처리, 데이터 추출, 삽입을 제대로 했는지 코드 적을 때 확인 하자
 6. 오류 찾을땐 무작정 X 체크리스트를 생각하고 찾자****(체크 리스트는 팁 정리하면서 생각하기)
 7. 최소, 최대값 갱신 타이밍 빼먹지 않고 모두 했는지?(값이 바뀌는 타이밍, 완성된 값 파악하는지 확인)
