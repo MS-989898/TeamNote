@@ -10,3 +10,4 @@
 3. DP: finding recurrence relation is point. Finding small unit's result is matter.
 4. Prove method: Assume you missed correct result, and verify that is never happend.
 5. Check time, memory capacity. Don't forget stack memory!
+6. If time or memory use are large, reduce any operarion as possible as I can.
